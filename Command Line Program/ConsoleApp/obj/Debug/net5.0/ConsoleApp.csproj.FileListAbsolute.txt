@@ -1,0 +1,16 @@
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\jelan\Documents\School\Jaar 2\Periode 6 - Vertical Slice\PROG\Command Line Program\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
