@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jelan\\Documents\\School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\jelan\\Documents\\1School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jelan\\Documents\\School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\jelan\\Documents\\1School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jelan\\Documents\\School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\jelan\\Documents\\1School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\jelan\\Documents\\School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\jelan\\Documents\\1School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\jelan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jelan\\Documents\\School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\jelan\\Documents\\1School\\Jaar 2\\Periode 6 - Vertical Slice\\PROG\\Command Line Program\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VS19Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\VS19Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\jelan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
